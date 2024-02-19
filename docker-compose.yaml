@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "kaustika1997/To-Do-App:latest"
+    image: "kaustika1997/to-do-app:latest"
     ports:
       - "8000:8000"
